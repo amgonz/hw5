@@ -1,0 +1,2899 @@
+{
+    "search_metadata": {
+        "completed_in": 0.136,
+        "count": 15,
+        "max_id": 961353041864773632,
+        "max_id_str": "961353041864773632",
+        "next_results": "?max_id=960979563995107330&q=umsi&include_entities=1",
+        "query": "umsi",
+        "refresh_url": "?since_id=961353041864773632&q=umsi&include_entities=1",
+        "since_id": 0,
+        "since_id_str": "0"
+    },
+    "statuses": [
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 21:36:40 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 25607195,
+                        "id_str": "25607195",
+                        "indices": [
+                            3,
+                            18
+                        ],
+                        "name": "Kristin Fontichiaro",
+                        "screen_name": "activelearning"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 961353041864773632,
+            "id_str": "961353041864773632",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 2,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Wed Feb 07 20:16:29 +0000 2018",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/961332860752945158",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/XY7Xyt81Y1"
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorite_count": 4,
+                "favorited": false,
+                "geo": null,
+                "id": 961332860752945158,
+                "id_str": "961332860752945158",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 2,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "{I am too busy working today to answer this rhetorical question} How hard do professors actually work? According to\u2026 https://t.co/XY7Xyt81Y1",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Sat Mar 21 00:23:48 +0000 2009",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "I teach at the University of Michigan School of Information, and I write books for educators, librarians, and kids. I run the Michigan Makers project.",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "fontichiaro.com",
+                                    "expanded_url": "http://fontichiaro.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/N8qrsnQFbd"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 2976,
+                    "follow_request_sent": false,
+                    "followers_count": 3196,
+                    "following": false,
+                    "friends_count": 879,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 25607195,
+                    "id_str": "25607195",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 283,
+                    "location": "Michigan",
+                    "name": "Kristin Fontichiaro",
+                    "notifications": false,
+                    "profile_background_color": "FFF04D",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74105116/Seamless_Tile_BirdsNberries_by_pixelsandicecream.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74105116/Seamless_Tile_BirdsNberries_by_pixelsandicecream.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2535006837/2ql6x8hdm70ylybby2x7_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2535006837/2ql6x8hdm70ylybby2x7_normal.jpeg",
+                    "profile_link_color": "0099CC",
+                    "profile_sidebar_border_color": "FFF8AD",
+                    "profile_sidebar_fill_color": "F6FFD1",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "activelearning",
+                    "statuses_count": 9854,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "translator_type": "none",
+                    "url": "http://t.co/N8qrsnQFbd",
+                    "utc_offset": -18000,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @activelearning: {I am too busy working today to answer this rhetorical question} How hard do professors actually work? According to a r\u2026",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Dec 10 22:56:22 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The University of Michigan School of Information creates and shares knowledge so that people will use information -- with technology -- to build a better world.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "si.umich.edu",
+                                "expanded_url": "http://si.umich.edu",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/4pWAWmnRR4"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4768,
+                "follow_request_sent": false,
+                "followers_count": 7322,
+                "following": false,
+                "friends_count": 1553,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 18033550,
+                "id_str": "18033550",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 407,
+                "location": "Ann Arbor, MI",
+                "name": "SchoolofInformation",
+                "notifications": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033550/1513026936",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "umsi",
+                "statuses_count": 10699,
+                "time_zone": "Eastern Time (US & Canada)",
+                "translator_type": "none",
+                "url": "http://t.co/4pWAWmnRR4",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 18:21:13 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/961303852187340800",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/BZxHiWH3Qa"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 971361588,
+                        "id_str": "971361588",
+                        "indices": [
+                            0,
+                            10
+                        ],
+                        "name": "Jean Hardy",
+                        "screen_name": "gaycyborg"
+                    },
+                    {
+                        "id": 327032058,
+                        "id_str": "327032058",
+                        "indices": [
+                            11,
+                            23
+                        ],
+                        "name": "Harmanpreet Kaur",
+                        "screen_name": "harmankkaur"
+                    },
+                    {
+                        "id": 15465094,
+                        "id_str": "15465094",
+                        "indices": [
+                            24,
+                            34
+                        ],
+                        "name": "andrea thomer",
+                        "screen_name": "an_dre_a_"
+                    },
+                    {
+                        "id": 160053576,
+                        "id_str": "160053576",
+                        "indices": [
+                            35,
+                            43
+                        ],
+                        "name": "Rebecca",
+                        "screen_name": "frankrd"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            44,
+                            49
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 961303852187340800,
+            "id_str": "961303852187340800",
+            "in_reply_to_screen_name": "gaycyborg",
+            "in_reply_to_status_id": 961288351180521480,
+            "in_reply_to_status_id_str": "961288351180521480",
+            "in_reply_to_user_id": 971361588,
+            "in_reply_to_user_id_str": "971361588",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@gaycyborg @harmankkaur @an_dre_a_ @frankrd @umsi doing my civic duty in case some are unaware: you can mute thread\u2026 https://t.co/BZxHiWH3Qa",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Oct 24 07:46:23 +0000 2014",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Library Assessment & Makerspace Student Researcher @umsi | Alum: @PeaceCorps \ud83c\uddea\ud83c\uddf9 |\n(getting new jokes with @fourfooters)",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 11023,
+                "follow_request_sent": false,
+                "followers_count": 745,
+                "following": false,
+                "friends_count": 587,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 2874771314,
+                "id_str": "2874771314",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 33,
+                "location": "Ann Arbor, MI",
+                "name": "ben rearick",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2874771314/1441894430",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/957126896751403008/_pi1k7VV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/957126896751403008/_pi1k7VV_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "ferenjamin",
+                "statuses_count": 1701,
+                "time_zone": "Pacific Time (US & Canada)",
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": -28800,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 17:43:32 +0000 2018",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            16,
+                            34
+                        ],
+                        "text": "hybridhomeschools"
+                    },
+                    {
+                        "indices": [
+                            57,
+                            63
+                        ],
+                        "text": "naums"
+                    },
+                    {
+                        "indices": [
+                            64,
+                            69
+                        ],
+                        "text": "umsi"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/oXdt9lVDOW",
+                        "expanded_url": "https://twitter.com/eric_wearne/status/961294371382595584/photo/1",
+                        "id": 961294365263048706,
+                        "id_str": "961294365263048706",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DVc0Ic4WsAIpw0s.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DVc0Ic4WsAIpw0s.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "resize": "fit",
+                                "w": 1536
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 900
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 510
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/oXdt9lVDOW"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 216841868,
+                        "id_str": "216841868",
+                        "indices": [
+                            70,
+                            80
+                        ],
+                        "name": "Univ-Model Schools",
+                        "screen_name": "umschools"
+                    },
+                    {
+                        "id": 100636862,
+                        "id_str": "100636862",
+                        "indices": [
+                            81,
+                            91
+                        ],
+                        "name": "NHERI",
+                        "screen_name": "nheri2010"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/oXdt9lVDOW",
+                        "expanded_url": "https://twitter.com/eric_wearne/status/961294371382595584/photo/1",
+                        "id": 961294365263048706,
+                        "id_str": "961294365263048706",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DVc0Ic4WsAIpw0s.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DVc0Ic4WsAIpw0s.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 2048,
+                                "resize": "fit",
+                                "w": 1536
+                            },
+                            "medium": {
+                                "h": 1200,
+                                "resize": "fit",
+                                "w": 900
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 510
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/oXdt9lVDOW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/oXdt9lVDOW",
+                        "expanded_url": "https://twitter.com/eric_wearne/status/961294371382595584/photo/1",
+                        "id": 961294365271392256,
+                        "id_str": "961294365271392256",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DVc0Ic6WAAAIFqM.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DVc0Ic6WAAAIFqM.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 1536,
+                                "resize": "fit",
+                                "w": 2048
+                            },
+                            "medium": {
+                                "h": 900,
+                                "resize": "fit",
+                                "w": 1200
+                            },
+                            "small": {
+                                "h": 510,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/oXdt9lVDOW"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 961294371382595584,
+            "id_str": "961294371382595584",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "text": "My new paper on #hybridhomeschools is out (no link yet). #naums #umsi @umschools @nheri2010 https://t.co/oXdt9lVDOW",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jun 03 16:03:06 +0000 2013",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Associate Professor of Education @GeorgiaGwinnett College (who endorses none of this). Catholic. Maintenance worker on Chesterton's fence.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "sites.google.com/view/eric-wear\u2026",
+                                "expanded_url": "https://sites.google.com/view/eric-wearne/home",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/h1GW7OL50J"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 2719,
+                "follow_request_sent": false,
+                "followers_count": 86,
+                "following": false,
+                "friends_count": 335,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1480053062,
+                "id_str": "1480053062",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 2,
+                "location": "Georgia, USA",
+                "name": "Eric Wearne",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1480053062/1484936571",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/826147696763346944/M37_3wfL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/826147696763346944/M37_3wfL_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "eric_wearne",
+                "statuses_count": 215,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/h1GW7OL50J",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 17:19:37 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 327032058,
+                        "id_str": "327032058",
+                        "indices": [
+                            0,
+                            12
+                        ],
+                        "name": "Harmanpreet Kaur",
+                        "screen_name": "harmankkaur"
+                    },
+                    {
+                        "id": 15465094,
+                        "id_str": "15465094",
+                        "indices": [
+                            13,
+                            23
+                        ],
+                        "name": "andrea thomer",
+                        "screen_name": "an_dre_a_"
+                    },
+                    {
+                        "id": 160053576,
+                        "id_str": "160053576",
+                        "indices": [
+                            24,
+                            32
+                        ],
+                        "name": "Rebecca",
+                        "screen_name": "frankrd"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            33,
+                            38
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "geo": null,
+            "id": 961288351180521480,
+            "id_str": "961288351180521480",
+            "in_reply_to_screen_name": "harmankkaur",
+            "in_reply_to_status_id": 961286069588316160,
+            "in_reply_to_status_id_str": "961286069588316160",
+            "in_reply_to_user_id": 327032058,
+            "in_reply_to_user_id_str": "327032058",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@harmankkaur @an_dre_a_ @frankrd @umsi reading email = labor",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Nov 26 05:23:30 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I research rural computing and culture in the Midwestern United States. PhD student @umsi. Yooper. He/him/#\ufe0f\u20e3",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "jean.lgbt",
+                                "expanded_url": "http://www.jean.lgbt",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/7axuisTmPG"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4038,
+                "follow_request_sent": false,
+                "followers_count": 575,
+                "following": false,
+                "friends_count": 763,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 971361588,
+                "id_str": "971361588",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 28,
+                "location": "Michigan, USA",
+                "name": "Jean Hardy",
+                "notifications": false,
+                "profile_background_color": "FFF04D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/971361588/1406994693",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/745798982580875264/HNuOqQ0v_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/745798982580875264/HNuOqQ0v_normal.jpg",
+                "profile_link_color": "FA743E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "gaycyborg",
+                "statuses_count": 2385,
+                "time_zone": "Eastern Time (US & Canada)",
+                "translator_type": "none",
+                "url": "https://t.co/7axuisTmPG",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 17:15:57 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/DQbbdY7xUS",
+                        "expanded_url": "https://twitter.com/frankrd/status/961287429381545984/photo/1",
+                        "id": 961286954439471105,
+                        "id_str": "961286954439471105",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DVctZFaU8AEpIHg.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DVctZFaU8AEpIHg.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 154,
+                                "resize": "fit",
+                                "w": 274
+                            },
+                            "medium": {
+                                "h": 154,
+                                "resize": "fit",
+                                "w": 274
+                            },
+                            "small": {
+                                "h": 154,
+                                "resize": "fit",
+                                "w": 274
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/DQbbdY7xUS"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 971361588,
+                        "id_str": "971361588",
+                        "indices": [
+                            0,
+                            10
+                        ],
+                        "name": "Jean Hardy",
+                        "screen_name": "gaycyborg"
+                    },
+                    {
+                        "id": 15465094,
+                        "id_str": "15465094",
+                        "indices": [
+                            11,
+                            21
+                        ],
+                        "name": "andrea thomer",
+                        "screen_name": "an_dre_a_"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            22,
+                            27
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/DQbbdY7xUS",
+                        "expanded_url": "https://twitter.com/frankrd/status/961287429381545984/photo/1",
+                        "id": 961286954439471105,
+                        "id_str": "961286954439471105",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DVctZFaU8AEpIHg.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DVctZFaU8AEpIHg.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 154,
+                                "resize": "fit",
+                                "w": 274
+                            },
+                            "medium": {
+                                "h": 154,
+                                "resize": "fit",
+                                "w": 274
+                            },
+                            "small": {
+                                "h": 154,
+                                "resize": "fit",
+                                "w": 274
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "animated_gif",
+                        "url": "https://t.co/DQbbdY7xUS",
+                        "video_info": {
+                            "aspect_ratio": [
+                                137,
+                                77
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/DVctZFaU8AEpIHg.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 961287429381545984,
+            "id_str": "961287429381545984",
+            "in_reply_to_screen_name": "gaycyborg",
+            "in_reply_to_status_id": 961285216487735296,
+            "in_reply_to_status_id_str": "961285216487735296",
+            "in_reply_to_user_id": 971361588,
+            "in_reply_to_user_id_str": "971361588",
+            "is_quote_status": false,
+            "lang": "und",
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "text": "@gaycyborg @an_dre_a_ @umsi  https://t.co/DQbbdY7xUS",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Jun 27 02:19:00 +0000 2010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "PhD candidate, UMSI. feminist. digital preservation, digital curation, disaster planning, trustworthy digital repositories.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "rebeccadfrank.com",
+                                "expanded_url": "http://www.rebeccadfrank.com/",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/7xPPV2hA0v"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 970,
+                "follow_request_sent": false,
+                "followers_count": 294,
+                "following": false,
+                "friends_count": 343,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 160053576,
+                "id_str": "160053576",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 18,
+                "location": "",
+                "name": "Rebecca",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/614742536863612928/E72Dlnm9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/614742536863612928/E72Dlnm9_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "frankrd",
+                "statuses_count": 2049,
+                "time_zone": "Central Time (US & Canada)",
+                "translator_type": "none",
+                "url": "http://t.co/7xPPV2hA0v",
+                "utc_offset": -21600,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 17:10:33 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 971361588,
+                        "id_str": "971361588",
+                        "indices": [
+                            0,
+                            10
+                        ],
+                        "name": "Jean Hardy",
+                        "screen_name": "gaycyborg"
+                    },
+                    {
+                        "id": 15465094,
+                        "id_str": "15465094",
+                        "indices": [
+                            11,
+                            21
+                        ],
+                        "name": "andrea thomer",
+                        "screen_name": "an_dre_a_"
+                    },
+                    {
+                        "id": 160053576,
+                        "id_str": "160053576",
+                        "indices": [
+                            22,
+                            30
+                        ],
+                        "name": "Rebecca",
+                        "screen_name": "frankrd"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            31,
+                            36
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 1,
+            "favorited": false,
+            "geo": null,
+            "id": 961286069588316160,
+            "id_str": "961286069588316160",
+            "in_reply_to_screen_name": "gaycyborg",
+            "in_reply_to_status_id": 961285216487735296,
+            "in_reply_to_status_id_str": "961285216487735296",
+            "in_reply_to_user_id": 971361588,
+            "in_reply_to_user_id_str": "971361588",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@gaycyborg @an_dre_a_ @frankrd @umsi This is a university-sanctioned form of procrastination as far as I'm concerned.",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Jun 30 21:56:43 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "PhD student @UMSI, studying individual productivity and group collaboration via intelligent communication and information tools. Coffee and string lights are \u2764",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "www-personal.umich.edu/~harmank/",
+                                "expanded_url": "http://www-personal.umich.edu/~harmank/",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/MgRPP69u7P"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 422,
+                "follow_request_sent": false,
+                "followers_count": 122,
+                "following": false,
+                "friends_count": 341,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 327032058,
+                "id_str": "327032058",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 0,
+                "location": "Ann Arbor, MI",
+                "name": "Harmanpreet Kaur",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/909583381960081409/Y_2odfzg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/909583381960081409/Y_2odfzg_normal.jpg",
+                "profile_link_color": "E2629A",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "harmankkaur",
+                "statuses_count": 97,
+                "time_zone": "Central Time (US & Canada)",
+                "translator_type": "none",
+                "url": "https://t.co/MgRPP69u7P",
+                "utc_offset": -21600,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 17:07:10 +0000 2018",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            92,
+                            101
+                        ],
+                        "text": "proudGSI"
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 15465094,
+                        "id_str": "15465094",
+                        "indices": [
+                            0,
+                            10
+                        ],
+                        "name": "andrea thomer",
+                        "screen_name": "an_dre_a_"
+                    },
+                    {
+                        "id": 160053576,
+                        "id_str": "160053576",
+                        "indices": [
+                            11,
+                            19
+                        ],
+                        "name": "Rebecca",
+                        "screen_name": "frankrd"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            76,
+                            81
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 5,
+            "favorited": false,
+            "geo": null,
+            "id": 961285216487735296,
+            "id_str": "961285216487735296",
+            "in_reply_to_screen_name": "an_dre_a_",
+            "in_reply_to_status_id": 961283188709646336,
+            "in_reply_to_status_id_str": "961283188709646336",
+            "in_reply_to_user_id": 15465094,
+            "in_reply_to_user_id_str": "15465094",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@an_dre_a_ @frankrd I really appreciate that a majority of these trolls are @umsi students. #proudGSI",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Nov 26 05:23:30 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "I research rural computing and culture in the Midwestern United States. PhD student @umsi. Yooper. He/him/#\ufe0f\u20e3",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "jean.lgbt",
+                                "expanded_url": "http://www.jean.lgbt",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/7axuisTmPG"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4038,
+                "follow_request_sent": false,
+                "followers_count": 575,
+                "following": false,
+                "friends_count": 763,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 971361588,
+                "id_str": "971361588",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 28,
+                "location": "Michigan, USA",
+                "name": "Jean Hardy",
+                "notifications": false,
+                "profile_background_color": "FFF04D",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/971361588/1406994693",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/745798982580875264/HNuOqQ0v_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/745798982580875264/HNuOqQ0v_normal.jpg",
+                "profile_link_color": "FA743E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "gaycyborg",
+                "statuses_count": 2385,
+                "time_zone": "Eastern Time (US & Canada)",
+                "translator_type": "none",
+                "url": "https://t.co/7axuisTmPG",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 16:53:18 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 759726559,
+                        "id_str": "759726559",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "U-M ITS \u2013 Ann Arbor",
+                        "screen_name": "umichTECH"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            62,
+                            67
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 961281730459127808,
+            "id_str": "961281730459127808",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 2,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Feb 06 20:52:36 +0000 2018",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/960979563995107331",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/Hv2xMsHZkd"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 18033550,
+                            "id_str": "18033550",
+                            "indices": [
+                                47,
+                                52
+                            ],
+                            "name": "SchoolofInformation",
+                            "screen_name": "umsi"
+                        }
+                    ]
+                },
+                "favorite_count": 2,
+                "favorited": false,
+                "geo": null,
+                "id": 960979563995107331,
+                "id_str": "960979563995107331",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 2,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Videos are now available from Privacy@Michigan @umsi on Jan. 30. Check them out to hear multidisciplinary conversat\u2026 https://t.co/Hv2xMsHZkd",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Wed Aug 15 16:45:38 +0000 2012",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Technology resources & tips at the University of Michigan (@umich). Promo for #MichiganIT community. Visit https://t.co/oPJSgJUmIQ for campus computing support.",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "its.umich.edu/help",
+                                    "expanded_url": "http://its.umich.edu/help",
+                                    "indices": [
+                                        107,
+                                        130
+                                    ],
+                                    "url": "https://t.co/oPJSgJUmIQ"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "its.umich.edu",
+                                    "expanded_url": "http://its.umich.edu",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/wiKFM6TPGP"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 753,
+                    "follow_request_sent": false,
+                    "followers_count": 2156,
+                    "following": false,
+                    "friends_count": 1125,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 759726559,
+                    "id_str": "759726559",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 88,
+                    "location": "University of Michigan",
+                    "name": "U-M ITS \u2013 Ann Arbor",
+                    "notifications": false,
+                    "profile_background_color": "00274C",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/759726559/1511962670",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                    "profile_link_color": "00274C",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "E3DDAA",
+                    "profile_text_color": "CFC88C",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "umichTECH",
+                    "statuses_count": 4265,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "translator_type": "none",
+                    "url": "http://t.co/wiKFM6TPGP",
+                    "utc_offset": -18000,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @umichTECH: Videos are now available from Privacy@Michigan @umsi on Jan. 30. Check them out to hear multidisciplinary conversations abou\u2026",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Dec 10 22:56:22 +0000 2008",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The University of Michigan School of Information creates and shares knowledge so that people will use information -- with technology -- to build a better world.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "si.umich.edu",
+                                "expanded_url": "http://si.umich.edu",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/4pWAWmnRR4"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 4768,
+                "follow_request_sent": false,
+                "followers_count": 7322,
+                "following": false,
+                "friends_count": 1553,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 18033550,
+                "id_str": "18033550",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 407,
+                "location": "Ann Arbor, MI",
+                "name": "SchoolofInformation",
+                "notifications": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/18033550/1513026936",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/940327729601417217/ayRfWgvn_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "umsi",
+                "statuses_count": 10699,
+                "time_zone": "Eastern Time (US & Canada)",
+                "translator_type": "none",
+                "url": "http://t.co/4pWAWmnRR4",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 05:09:55 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/80rUroE0m6k",
+                        "expanded_url": "https://youtu.be/80rUroE0m6k",
+                        "indices": [
+                            80,
+                            103
+                        ],
+                        "url": "https://t.co/4FcaBIiUCi"
+                    },
+                    {
+                        "display_url": "youtu.be/ouB3qs5ad10",
+                        "expanded_url": "https://youtu.be/ouB3qs5ad10",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "url": "https://t.co/rgq5UJKcTs"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            53,
+                            58
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "geo": null,
+            "id": 961104714757738497,
+            "id_str": "961104714757738497",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+            "text": "Screencasts of parts 2 and 3 of OO modeling workshop @umsi yesterday:\r\rPart 2 - https://t.co/4FcaBIiUCi\r\rPart 3 - https://t.co/rgq5UJKcTs",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Sep 05 18:18:39 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Twitter feed for Dan Klyn's SI 658 class at UM SI",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "umich.instructure.com/courses/199661",
+                                "expanded_url": "https://umich.instructure.com/courses/199661",
+                                "indices": [
+                                    0,
+                                    23
+                                ],
+                                "url": "https://t.co/CR2qtehzq4"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 85,
+                "follow_request_sent": false,
+                "followers_count": 206,
+                "following": false,
+                "friends_count": 75,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 71859671,
+                "id_str": "71859671",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 18,
+                "location": "Michigan",
+                "name": "SI 658",
+                "notifications": false,
+                "profile_background_color": "5F6466",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/34678574/409138.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/34678574/409138.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/71859671/1496929549",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/872812365053603840/r_cIuImr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/872812365053603840/r_cIuImr_normal.jpg",
+                "profile_link_color": "0B0B1C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "8BA69D",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "si658",
+                "statuses_count": 461,
+                "time_zone": "Eastern Time (US & Canada)",
+                "translator_type": "none",
+                "url": "https://t.co/CR2qtehzq4",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 04:29:19 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 759726559,
+                        "id_str": "759726559",
+                        "indices": [
+                            3,
+                            13
+                        ],
+                        "name": "U-M ITS \u2013 Ann Arbor",
+                        "screen_name": "umichTECH"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            62,
+                            67
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 961094500524453889,
+            "id_str": "961094500524453889",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "retweet_count": 2,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Feb 06 20:52:36 +0000 2018",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/960979563995107331",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/Hv2xMsHZkd"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 18033550,
+                            "id_str": "18033550",
+                            "indices": [
+                                47,
+                                52
+                            ],
+                            "name": "SchoolofInformation",
+                            "screen_name": "umsi"
+                        }
+                    ]
+                },
+                "favorite_count": 2,
+                "favorited": false,
+                "geo": null,
+                "id": 960979563995107331,
+                "id_str": "960979563995107331",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": false,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "retweet_count": 2,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "Videos are now available from Privacy@Michigan @umsi on Jan. 30. Check them out to hear multidisciplinary conversat\u2026 https://t.co/Hv2xMsHZkd",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Wed Aug 15 16:45:38 +0000 2012",
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "description": "Technology resources & tips at the University of Michigan (@umich). Promo for #MichiganIT community. Visit https://t.co/oPJSgJUmIQ for campus computing support.",
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "display_url": "its.umich.edu/help",
+                                    "expanded_url": "http://its.umich.edu/help",
+                                    "indices": [
+                                        107,
+                                        130
+                                    ],
+                                    "url": "https://t.co/oPJSgJUmIQ"
+                                }
+                            ]
+                        },
+                        "url": {
+                            "urls": [
+                                {
+                                    "display_url": "its.umich.edu",
+                                    "expanded_url": "http://its.umich.edu",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ],
+                                    "url": "http://t.co/wiKFM6TPGP"
+                                }
+                            ]
+                        }
+                    },
+                    "favourites_count": 753,
+                    "follow_request_sent": false,
+                    "followers_count": 2156,
+                    "following": false,
+                    "friends_count": 1125,
+                    "geo_enabled": true,
+                    "has_extended_profile": false,
+                    "id": 759726559,
+                    "id_str": "759726559",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 88,
+                    "location": "University of Michigan",
+                    "name": "U-M ITS \u2013 Ann Arbor",
+                    "notifications": false,
+                    "profile_background_color": "00274C",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/759726559/1511962670",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                    "profile_link_color": "00274C",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "E3DDAA",
+                    "profile_text_color": "CFC88C",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "umichTECH",
+                    "statuses_count": 4265,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "translator_type": "none",
+                    "url": "http://t.co/wiKFM6TPGP",
+                    "utc_offset": -18000,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "RT @umichTECH: Videos are now available from Privacy@Michigan @umsi on Jan. 30. Check them out to hear multidisciplinary conversations abou\u2026",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat May 13 06:33:00 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 3062,
+                "follow_request_sent": false,
+                "followers_count": 38,
+                "following": false,
+                "friends_count": 2,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 863280900146122754,
+                "id_str": "863280900146122754",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en-gb",
+                "listed_count": 1,
+                "location": "",
+                "name": "Maya Joyce",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/866824700080652289/G_ujviIm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/866824700080652289/G_ujviIm_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "imhytaro1972",
+                "statuses_count": 3060,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 01:46:35 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/961053544555130880",
+                        "indices": [
+                            112,
+                            135
+                        ],
+                        "url": "https://t.co/ARWLdhzSLv"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 528951439,
+                        "id_str": "528951439",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "name": "Tiffany Cole",
+                        "screen_name": "TiffanyWCole"
+                    }
+                ]
+            },
+            "favorite_count": 6,
+            "favorited": false,
+            "geo": null,
+            "id": 961053544555130880,
+            "id_str": "961053544555130880",
+            "in_reply_to_screen_name": "TiffanyWCole",
+            "in_reply_to_status_id": 961052519626625025,
+            "in_reply_to_status_id_str": "961052519626625025",
+            "in_reply_to_user_id": 528951439,
+            "in_reply_to_user_id_str": "528951439",
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "@TiffanyWCole I had the luxury of taking a whole course on copyright and intellectual property issues while at\u2026 https://t.co/ARWLdhzSLv",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Jan 25 17:48:07 +0000 2014",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Archivist at Texas A&M University-Commerce, University of Michigan alumnus, Wikipedian",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "michaelbarera.net",
+                                "expanded_url": "http://michaelbarera.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/HkQVqhz7IN"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 515,
+                "follow_request_sent": false,
+                "followers_count": 179,
+                "following": false,
+                "friends_count": 397,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 2310460753,
+                "id_str": "2310460753",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 8,
+                "location": "Commerce, TX",
+                "name": "Michael Barera",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2310460753/1517754625",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/891736940059402240/Fpn3sbIK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/891736940059402240/Fpn3sbIK_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "MichaelBarera",
+                "statuses_count": 490,
+                "time_zone": "Central Time (US & Canada)",
+                "translator_type": "none",
+                "url": "http://t.co/HkQVqhz7IN",
+                "utc_offset": -21600,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Wed Feb 07 00:45:08 +0000 2018",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            16
+                        ],
+                        "text": "Legacyclassical"
+                    },
+                    {
+                        "indices": [
+                            45,
+                            63
+                        ],
+                        "text": "notanumberanymore"
+                    },
+                    {
+                        "indices": [
+                            64,
+                            78
+                        ],
+                        "text": "parentpreview"
+                    },
+                    {
+                        "indices": [
+                            79,
+                            84
+                        ],
+                        "text": "UMSI"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/A0ilPFeaAg",
+                        "expanded_url": "https://twitter.com/chromiumkid/status/961038081813073920/video/1",
+                        "id": 961038051194499073,
+                        "id_str": "961038051194499073",
+                        "indices": [
+                            113,
+                            136
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961038051194499073/pu/img/0mqQWUtZvPWXZAqm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961038051194499073/pu/img/0mqQWUtZvPWXZAqm.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "medium": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/A0ilPFeaAg"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "ripl.com",
+                        "expanded_url": "http://ripl.com",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "url": "https://t.co/aEhv0CjaMA"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "display_url": "pic.twitter.com/A0ilPFeaAg",
+                        "expanded_url": "https://twitter.com/chromiumkid/status/961038081813073920/video/1",
+                        "id": 961038051194499073,
+                        "id_str": "961038051194499073",
+                        "indices": [
+                            113,
+                            136
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961038051194499073/pu/img/0mqQWUtZvPWXZAqm.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961038051194499073/pu/img/0mqQWUtZvPWXZAqm.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "medium": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/A0ilPFeaAg",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 10633,
+                            "variants": [
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/961038051194499073/pu/vid/720x720/OzZhLudPUM5_nlSI.mp4"
+                                },
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/961038051194499073/pu/vid/240x240/6bBLhUycZrBBGbA9.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/961038051194499073/pu/vid/480x480/9ZQVq3dOSrfeAFlO.mp4"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/961038051194499073/pu/pl/yfq6AVJPzqUWave6.m3u8"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 961038081813073920,
+            "id_str": "961038081813073920",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "pt",
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.ripl.com\" rel=\"nofollow\">Ripl App</a>",
+            "text": "#Legacyclassical via https://t.co/aEhv0CjaMA #notanumberanymore #parentpreview #UMSI Feb. 15. 9 am. 817.382.2322 https://t.co/A0ilPFeaAg",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jun 19 00:03:00 +0000 2012",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "unfinished.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "legacyclassical.org",
+                                "expanded_url": "http://legacyclassical.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/kQHe0UWBSo"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 176,
+                "follow_request_sent": false,
+                "followers_count": 97,
+                "following": false,
+                "friends_count": 244,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 612195123,
+                "id_str": "612195123",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1,
+                "location": "Texas",
+                "name": "Belinda Henson",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/612195123/1388369938",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2727636250/dae026dc5835ee14923f6435fa988816_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2727636250/dae026dc5835ee14923f6435fa988816_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "chromiumkid",
+                "statuses_count": 227,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "http://t.co/kQHe0UWBSo",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Feb 06 23:29:46 +0000 2018",
+            "entities": {
+                "hashtags": [
+                    {
+                        "indices": [
+                            0,
+                            16
+                        ],
+                        "text": "Legacyclassical"
+                    },
+                    {
+                        "indices": [
+                            45,
+                            63
+                        ],
+                        "text": "notanumberanymore"
+                    },
+                    {
+                        "indices": [
+                            64,
+                            78
+                        ],
+                        "text": "parentpreview"
+                    },
+                    {
+                        "indices": [
+                            79,
+                            84
+                        ],
+                        "text": "UMSI"
+                    }
+                ],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/D7sYzS5ms1",
+                        "expanded_url": "https://twitter.com/chromiumkid/status/961019114314706944/video/1",
+                        "id": 961019091107553280,
+                        "id_str": "961019091107553280",
+                        "indices": [
+                            113,
+                            136
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961019091107553280/pu/img/6G8YmoRKnoSgX7WP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961019091107553280/pu/img/6G8YmoRKnoSgX7WP.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "medium": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "photo",
+                        "url": "https://t.co/D7sYzS5ms1"
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "ripl.com",
+                        "expanded_url": "http://ripl.com",
+                        "indices": [
+                            21,
+                            44
+                        ],
+                        "url": "https://t.co/aEhv0CjaMA"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "display_url": "pic.twitter.com/D7sYzS5ms1",
+                        "expanded_url": "https://twitter.com/chromiumkid/status/961019114314706944/video/1",
+                        "id": 961019091107553280,
+                        "id_str": "961019091107553280",
+                        "indices": [
+                            113,
+                            136
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/961019091107553280/pu/img/6G8YmoRKnoSgX7WP.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/961019091107553280/pu/img/6G8YmoRKnoSgX7WP.jpg",
+                        "sizes": {
+                            "large": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "medium": {
+                                "h": 720,
+                                "resize": "fit",
+                                "w": 720
+                            },
+                            "small": {
+                                "h": 680,
+                                "resize": "fit",
+                                "w": 680
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            }
+                        },
+                        "type": "video",
+                        "url": "https://t.co/D7sYzS5ms1",
+                        "video_info": {
+                            "aspect_ratio": [
+                                1,
+                                1
+                            ],
+                            "duration_millis": 10733,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/961019091107553280/pu/vid/240x240/5XWbG2iO9HKaEoyu.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/961019091107553280/pu/vid/480x480/LXChf6mvinzvjeMr.mp4"
+                                },
+                                {
+                                    "bitrate": 1280000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/961019091107553280/pu/vid/720x720/XvCYhlIs7vRmUcdT.mp4"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/961019091107553280/pu/pl/ocM0gp16UKFleqKo.m3u8"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 961019114314706944,
+            "id_str": "961019114314706944",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "pt",
+            "metadata": {
+                "iso_language_code": "pt",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 0,
+            "retweeted": false,
+            "source": "<a href=\"http://www.ripl.com\" rel=\"nofollow\">Ripl App</a>",
+            "text": "#Legacyclassical via https://t.co/aEhv0CjaMA #notanumberanymore #parentpreview #UMSI Feb. 15. 9 am. 817.382.2322 https://t.co/D7sYzS5ms1",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Jun 19 00:03:00 +0000 2012",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "unfinished.",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "legacyclassical.org",
+                                "expanded_url": "http://legacyclassical.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/kQHe0UWBSo"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 176,
+                "follow_request_sent": false,
+                "followers_count": 97,
+                "following": false,
+                "friends_count": 244,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 612195123,
+                "id_str": "612195123",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 1,
+                "location": "Texas",
+                "name": "Belinda Henson",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/612195123/1388369938",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2727636250/dae026dc5835ee14923f6435fa988816_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2727636250/dae026dc5835ee14923f6435fa988816_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "chromiumkid",
+                "statuses_count": 227,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "http://t.co/kQHe0UWBSo",
+                "utc_offset": null,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Feb 06 21:14:26 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id": 2874771314,
+                        "id_str": "2874771314",
+                        "indices": [
+                            3,
+                            14
+                        ],
+                        "name": "ben rearick",
+                        "screen_name": "ferenjamin"
+                    },
+                    {
+                        "id": 247446447,
+                        "id_str": "247446447",
+                        "indices": [
+                            75,
+                            88
+                        ],
+                        "name": "U-M Library",
+                        "screen_name": "UMichLibrary"
+                    },
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            93,
+                            98
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "geo": null,
+            "id": 960985055576276992,
+            "id_str": "960985055576276992",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": true,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "quoted_status_id": 960780658237882369,
+            "quoted_status_id_str": "960780658237882369",
+            "retweet_count": 1,
+            "retweeted": false,
+            "retweeted_status": {
+                "contributors": null,
+                "coordinates": null,
+                "created_at": "Tue Feb 06 17:20:51 +0000 2018",
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/9\u2026",
+                            "expanded_url": "https://twitter.com/i/web/status/960926274045739009",
+                            "indices": [
+                                117,
+                                140
+                            ],
+                            "url": "https://t.co/2V7Lkpmelo"
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "id": 247446447,
+                            "id_str": "247446447",
+                            "indices": [
+                                59,
+                                72
+                            ],
+                            "name": "U-M Library",
+                            "screen_name": "UMichLibrary"
+                        },
+                        {
+                            "id": 18033550,
+                            "id_str": "18033550",
+                            "indices": [
+                                77,
+                                82
+                            ],
+                            "name": "SchoolofInformation",
+                            "screen_name": "umsi"
+                        }
+                    ]
+                },
+                "favorite_count": 5,
+                "favorited": false,
+                "geo": null,
+                "id": 960926274045739009,
+                "id_str": "960926274045739009",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "is_quote_status": true,
+                "lang": "en",
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "place": null,
+                "possibly_sensitive": false,
+                "quoted_status": {
+                    "contributors": null,
+                    "coordinates": null,
+                    "created_at": "Tue Feb 06 07:42:14 +0000 2018",
+                    "entities": {
+                        "hashtags": [],
+                        "symbols": [],
+                        "urls": [
+                            {
+                                "display_url": "twitter.com/i/web/status/9\u2026",
+                                "expanded_url": "https://twitter.com/i/web/status/960780658237882369",
+                                "indices": [
+                                    108,
+                                    131
+                                ],
+                                "url": "https://t.co/3JMIjdiGzQ"
+                            }
+                        ],
+                        "user_mentions": [
+                            {
+                                "id": 256309106,
+                                "id_str": "256309106",
+                                "indices": [
+                                    0,
+                                    6
+                                ],
+                                "name": "Wikimedia Australia",
+                                "screen_name": "wm_au"
+                            },
+                            {
+                                "id": 22097835,
+                                "id_str": "22097835",
+                                "indices": [
+                                    7,
+                                    13
+                                ],
+                                "name": "State Library of Qld",
+                                "screen_name": "slqld"
+                            }
+                        ]
+                    },
+                    "favorite_count": 9,
+                    "favorited": false,
+                    "geo": null,
+                    "id": 960780658237882369,
+                    "id_str": "960780658237882369",
+                    "in_reply_to_screen_name": "wm_au",
+                    "in_reply_to_status_id": 960332839152570368,
+                    "in_reply_to_status_id_str": "960332839152570368",
+                    "in_reply_to_user_id": 256309106,
+                    "in_reply_to_user_id_str": "256309106",
+                    "is_quote_status": false,
+                    "lang": "en",
+                    "metadata": {
+                        "iso_language_code": "en",
+                        "result_type": "recent"
+                    },
+                    "place": null,
+                    "retweet_count": 3,
+                    "retweeted": false,
+                    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                    "text": "@wm_au @slqld Our 40 editors made 1,160 edits to 477 articles and created 5 articles. Shout out to all the\u2026 https://t.co/3JMIjdiGzQ",
+                    "truncated": true,
+                    "user": {
+                        "contributors_enabled": false,
+                        "created_at": "Sun Feb 23 09:48:08 +0000 2014",
+                        "default_profile": false,
+                        "default_profile_image": false,
+                        "description": "Jacinta Sutton// #QWiki // Shelf awareness",
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "favourites_count": 2307,
+                        "follow_request_sent": false,
+                        "followers_count": 402,
+                        "following": false,
+                        "friends_count": 728,
+                        "geo_enabled": true,
+                        "has_extended_profile": false,
+                        "id": 2357772457,
+                        "id_str": "2357772457",
+                        "is_translation_enabled": false,
+                        "is_translator": false,
+                        "lang": "en",
+                        "listed_count": 26,
+                        "location": "Brisbane, Queensland",
+                        "name": "Pina Coladigan",
+                        "notifications": false,
+                        "profile_background_color": "1A1B1F",
+                        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437529606170480640/9MI_ko55.jpeg",
+                        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437529606170480640/9MI_ko55.jpeg",
+                        "profile_background_tile": true,
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2357772457/1465678270",
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/792981190886076416/TOMfmgf-_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/792981190886076416/TOMfmgf-_normal.jpg",
+                        "profile_link_color": "F74A00",
+                        "profile_sidebar_border_color": "FFFFFF",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "protected": false,
+                        "screen_name": "jjsttn",
+                        "statuses_count": 1379,
+                        "time_zone": "Brisbane",
+                        "translator_type": "none",
+                        "url": null,
+                        "utc_offset": 36000,
+                        "verified": false
+                    }
+                },
+                "quoted_status_id": 960780658237882369,
+                "quoted_status_id_str": "960780658237882369",
+                "retweet_count": 1,
+                "retweeted": false,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "text": "An amazing example of what a concerted effort can do! Hope @UMichLibrary and @umsi can make a similar difference ne\u2026 https://t.co/2V7Lkpmelo",
+                "truncated": true,
+                "user": {
+                    "contributors_enabled": false,
+                    "created_at": "Fri Oct 24 07:46:23 +0000 2014",
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "description": "Library Assessment & Makerspace Student Researcher @umsi | Alum: @PeaceCorps \ud83c\uddea\ud83c\uddf9 |\n(getting new jokes with @fourfooters)",
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "favourites_count": 11023,
+                    "follow_request_sent": false,
+                    "followers_count": 745,
+                    "following": false,
+                    "friends_count": 587,
+                    "geo_enabled": false,
+                    "has_extended_profile": false,
+                    "id": 2874771314,
+                    "id_str": "2874771314",
+                    "is_translation_enabled": false,
+                    "is_translator": false,
+                    "lang": "en",
+                    "listed_count": 33,
+                    "location": "Ann Arbor, MI",
+                    "name": "ben rearick",
+                    "notifications": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2874771314/1441894430",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/957126896751403008/_pi1k7VV_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/957126896751403008/_pi1k7VV_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "protected": false,
+                    "screen_name": "ferenjamin",
+                    "statuses_count": 1701,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "translator_type": "none",
+                    "url": null,
+                    "utc_offset": -28800,
+                    "verified": false
+                }
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "text": "RT @ferenjamin: An amazing example of what a concerted effort can do! Hope @UMichLibrary and @umsi can make a similar difference next #1Lib\u2026",
+            "truncated": false,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Feb 23 09:48:08 +0000 2014",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Jacinta Sutton// #QWiki // Shelf awareness",
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "favourites_count": 2307,
+                "follow_request_sent": false,
+                "followers_count": 402,
+                "following": false,
+                "friends_count": 728,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 2357772457,
+                "id_str": "2357772457",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 26,
+                "location": "Brisbane, Queensland",
+                "name": "Pina Coladigan",
+                "notifications": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437529606170480640/9MI_ko55.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437529606170480640/9MI_ko55.jpeg",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2357772457/1465678270",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/792981190886076416/TOMfmgf-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/792981190886076416/TOMfmgf-_normal.jpg",
+                "profile_link_color": "F74A00",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "jjsttn",
+                "statuses_count": 1379,
+                "time_zone": "Brisbane",
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": 36000,
+                "verified": false
+            }
+        },
+        {
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Tue Feb 06 20:52:36 +0000 2018",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/960979563995107331",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "url": "https://t.co/Hv2xMsHZkd"
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id": 18033550,
+                        "id_str": "18033550",
+                        "indices": [
+                            47,
+                            52
+                        ],
+                        "name": "SchoolofInformation",
+                        "screen_name": "umsi"
+                    }
+                ]
+            },
+            "favorite_count": 2,
+            "favorited": false,
+            "geo": null,
+            "id": 960979563995107331,
+            "id_str": "960979563995107331",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "is_quote_status": false,
+            "lang": "en",
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "place": null,
+            "possibly_sensitive": false,
+            "retweet_count": 2,
+            "retweeted": false,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "text": "Videos are now available from Privacy@Michigan @umsi on Jan. 30. Check them out to hear multidisciplinary conversat\u2026 https://t.co/Hv2xMsHZkd",
+            "truncated": true,
+            "user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Aug 15 16:45:38 +0000 2012",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Technology resources & tips at the University of Michigan (@umich). Promo for #MichiganIT community. Visit https://t.co/oPJSgJUmIQ for campus computing support.",
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "display_url": "its.umich.edu/help",
+                                "expanded_url": "http://its.umich.edu/help",
+                                "indices": [
+                                    107,
+                                    130
+                                ],
+                                "url": "https://t.co/oPJSgJUmIQ"
+                            }
+                        ]
+                    },
+                    "url": {
+                        "urls": [
+                            {
+                                "display_url": "its.umich.edu",
+                                "expanded_url": "http://its.umich.edu",
+                                "indices": [
+                                    0,
+                                    22
+                                ],
+                                "url": "http://t.co/wiKFM6TPGP"
+                            }
+                        ]
+                    }
+                },
+                "favourites_count": 753,
+                "follow_request_sent": false,
+                "followers_count": 2156,
+                "following": false,
+                "friends_count": 1125,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 759726559,
+                "id_str": "759726559",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": "en",
+                "listed_count": 88,
+                "location": "University of Michigan",
+                "name": "U-M ITS \u2013 Ann Arbor",
+                "notifications": false,
+                "profile_background_color": "00274C",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000018721315/6a71afaada2df2816cb7898b514b2be4.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/759726559/1511962670",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000104974885/e7c0eb4194422e3869efc98ca9ef187a_normal.png",
+                "profile_link_color": "00274C",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3DDAA",
+                "profile_text_color": "CFC88C",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "umichTECH",
+                "statuses_count": 4265,
+                "time_zone": "Eastern Time (US & Canada)",
+                "translator_type": "none",
+                "url": "http://t.co/wiKFM6TPGP",
+                "utc_offset": -18000,
+                "verified": false
+            }
+        }
+    ]
+}
